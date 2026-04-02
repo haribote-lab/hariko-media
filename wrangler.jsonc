@@ -19,6 +19,13 @@
 			"bucket_name": "hariko-media","preview_bucket_name": "hariko-media",
 		},
 	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "aad4e5e167044dc681d5a652bdd61355",
+			"preview_id": "aad4e5e167044dc681d5a652bdd61355"
+		}
+	],
 	"observability": {
 		"enabled": true,
 	}
